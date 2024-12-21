@@ -9,7 +9,7 @@ const StatItem: React.FC<StatItemProps> = ({ icon, content }) => (
 		<p className="text-md ml-4 font-medium text-gray-800">{content}</p>
 	</div>
 );
-
+/*hi user*/
 const General: React.FC<GeneralProps> = ({ stats, setState }) => {
 	const handleSetState = useCallback(() => setState(true), [setState]);
 

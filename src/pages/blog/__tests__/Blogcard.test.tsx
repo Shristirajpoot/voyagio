@@ -12,7 +12,7 @@ describe("BlogCard", () => {
 		content: "<p>Sample content</p>",
 		preview: "This is a test preview text for the blog post.",
 		date: "2024-01-01",
-	};
+	};/*hi user*/
 	it("renders the blog card", () => {
 		render(<BlogCard post={mockPost} onClick={() => {}} />);
 		expect(screen.getByText(/Test Post/)).toBeInTheDocument();

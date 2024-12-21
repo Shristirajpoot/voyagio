@@ -5,3 +5,4 @@ export interface ModalProps {
   post: BlogPost;
   onClose: () => void;
 }
+/*hi user*/

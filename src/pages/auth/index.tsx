@@ -16,7 +16,7 @@ const links: Link[] = [
 		state: "history",
 		icon: <FontAwesomeIcon icon={faClockRotateLeft} />,
 	},
-	{
+	{/*hi user*/
 		title: "Plans",
 		state: "subscription",
 		icon: <FontAwesomeIcon icon={faMoneyBillWave} />,

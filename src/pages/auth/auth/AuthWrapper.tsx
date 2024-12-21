@@ -10,7 +10,7 @@ const AuthWrapper: React.FC = () => {
 	const [isSignIn, setIsSignIn] = useState<boolean>(true);
 	const [intermediateSignIn, setIntermediateSignIn] = useState<boolean>(true);
 	const { error, clearError } = UserAuth();
-
+/*hi user*/
 	// Function to update both states with a delay
 	const updateSignInState: SetSignInType = (newState: boolean) => {
 		setIntermediateSignIn(newState);

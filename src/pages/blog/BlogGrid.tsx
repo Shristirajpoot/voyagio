@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 import BlogCard from "./Blogcard";
 import { BlogGridProps } from "../../types/BlogGridProps";
-
+/*hi user*/
 const BlogSkeletonCard = () => {
 	return (
 		<div className="relative h-[380px] w-full overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-lg sm:h-[400px] md:h-[400px]">

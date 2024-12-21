@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import TypingEffect from "./TypeEffect";
-
+/*hi user*/
 const Hero = () => {
 	return (
 		<div className="flex w-full items-center justify-center border-gray-300 bg-gradient-to-b from-blue-700 via-blue-500 to-white px-6  pb-36 pt-40">

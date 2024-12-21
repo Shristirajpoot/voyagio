@@ -8,7 +8,7 @@ const Sidebar: React.FC<SidebarProps> = ({ links, setAccountSection, user, logou
 	const isMobile = useMediaQuery({ maxWidth: 768 });
 
 	const menuTitle = isMobile ? "Account Settings" : "Voyagio";
-
+/*hi user*/
 	return (
 		<div id="sidebar" className="flex h-fit flex-col justify-between rounded-3xl border border-gray-200 bg-white p-6 shadow-2xl sm:col-span-1">
 			<div>

@@ -6,7 +6,7 @@ import { ProgramDetail } from "../../types/ResponseTypes";
 import { MapProps } from "../../types/MapProp";
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN;
-
+/*hi user*/
 const Map: React.FC<MapProps> = ({ location }) => {
 	const mapContainerRef = useRef<HTMLDivElement>(null);
 	const [map, setMap] = useState<mapboxgl.Map | null>();

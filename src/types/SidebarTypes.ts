@@ -13,4 +13,4 @@ export type SidebarProps = {
 	setAccountSection: (section: AccountSection) => void;
 	user: User | null;
 	logout: () => void;
-};
+};/*hi user*/

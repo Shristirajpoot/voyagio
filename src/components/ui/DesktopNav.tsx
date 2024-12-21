@@ -6,7 +6,7 @@ import { faCircleUser, faUserPlus } from "@fortawesome/free-solid-svg-icons";
 const DesktopNav = () => {
 	const { user, loading } = UserAuth();
 
-	const navLoadClass = loading ? "opacity-0" : "";
+	/*hi user*/const navLoadClass = loading ? "opacity-0" : "";
 
 	return (
 		<div className="fixed box-border w-full border-b border-b-slate-800 bg-slate-950 py-4 text-gray-100">

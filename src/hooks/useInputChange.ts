@@ -18,6 +18,6 @@ export const useInputChange = (
     setErrors((prevErrors) => ({ ...prevErrors, [field]: "" }));
   };
   
-
+/*hi user*/
   return { handleInputChange, handleButtonInputChange, handleMultipleChoiceChange };
 };

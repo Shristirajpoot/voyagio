@@ -19,7 +19,7 @@ const CostItem: React.FC<CostItemProps> = ({ icon, category, details }) => (
 		</div>
 	</div>
 );
-
+/*hi user*/
 const CostBreakdown: React.FC<EstimatedCostsProps> = ({ estimatedCosts }) => {
 	const [isCollapsed, setIsCollapsed] = useState(false);
 

@@ -10,7 +10,7 @@ import { activities, budgetOptions, groupOptions } from "../../data/buttonData.t
 import { useCityAutocomplete } from "../../hooks/useCityAutocomplete.ts";
 import { ErrorObject } from "../../types/ErrorObject.ts";
 import { CalendarDatePicker } from "../../components/ui/calendar-date-picker.tsx";
-
+/*hi user*/
 // TODO: Switch to react-hook-form and zod & shadcn form
 
 const initialState: FormState = {

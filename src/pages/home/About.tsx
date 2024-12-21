@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import ai from "../../assets/ai.webp";
 import map from "../../assets/map.webp";
 import passport from "../../assets/passport.webp";
-
+/*hi user*/
 const About: React.FC = () => {
 	const navigate = useNavigate();
 

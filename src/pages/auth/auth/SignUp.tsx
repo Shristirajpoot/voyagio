@@ -17,7 +17,7 @@ const SignUp: React.FC<Props> = ({ setState }) => {
 		setError(null);
 		clearError(); // Clear error when the user starts typing
 	};
-
+/*hi user*/
 	// Password change event listener
 	const handlePasswordChange = (e: ChangeEvent<HTMLInputElement>) => {
 		setPassword(e.target.value);

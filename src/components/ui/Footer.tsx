@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
 			to: "/",
 		},
 	];
-
+/*hi user*/
 	return (
 		<footer className="bg-slate-950 py-8 text-white">
 			<div className="mx-auto max-w-screen-xl px-4 text-center">

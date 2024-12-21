@@ -1,7 +1,7 @@
 import { render, fireEvent } from "@testing-library/react";
 import General from "../General";
 import response from "../../../data/exampleResponse.json";
-
+/*hi user*/
 const mockProps = {
 	stats: response.destination,
 	setState: jest.fn(),

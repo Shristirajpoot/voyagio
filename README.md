@@ -1,4 +1,3 @@
-**Please note this project hasn't been maintained since Feb 2024**
 
 ![Logo](public/logo_1.png)
 
@@ -36,11 +35,11 @@ Embark on a journey of seamless, smart, and personalized travel planning. Pack y
 
 ### 1. Click on the Get Planning button
 
-![main](https://github.com/szilrdmate/voyagio/assets/147255010/f513686d-8b2d-4a89-bcdd-5c79a94b3ed2)
+![main](https://github.com/Shristirajpoot/voyagio/assets/147255010/f513686d-8b2d-4a89-bcdd-5c79a94b3ed2)
 
 ### 2. Fill out the planner with your preferences and hit Get Itinerary
 
-![configure](https://github.com/szilrdmate/voyagio/assets/147255010/501760e0-9f19-4f49-8fd7-a175c8a9069d)
+![configure](https://github.com/Shristirajpoot/voyagio/assets/147255010/501760e0-9f19-4f49-8fd7-a175c8a9069d)
 
 ### 3. Wait for it to load and check out your trip
 
@@ -75,7 +74,7 @@ To install the project and its dependencies, follow these steps:
 1.  Clone the repository
 
 ```bash
-git clone https://github.com/szilrdmate/voyagio.git
+git clone https://github.com/Shristirajpoot/voyagio.git
 ```
 
 2.  Go to the project directory and install dependencies
@@ -120,31 +119,31 @@ This project is a React TypeScript application, combining React's user-friendly 
 
 ### Home
 
-![home](https://github.com/szilrdmate/voyagio/assets/147255010/e83fef08-dcb3-46c7-a851-d8a3cb657952)
+![home](https://github.com/Shristirajpoot/voyagio/assets/147255010/e83fef08-dcb3-46c7-a851-d8a3cb657952)
 
 ### Planner
 
-![itinerary1](https://github.com/szilrdmate/voyagio/assets/147255010/e8e7366e-072a-43e2-95da-cb6c8cd32a60)
+![itinerary1](https://github.com/Shristirajpoot/voyagio/assets/147255010/e8e7366e-072a-43e2-95da-cb6c8cd32a60)
 
 - **Unique Programs and Events:** The app harnesses AI to uncover unique local events and hidden gems, offering personalized suggestions beyond typical tourist spots.
 
-![itinerary4](https://github.com/szilrdmate/voyagio/assets/147255010/f1e109e4-c412-40c9-bbe4-cdc468990d7a)
+![itinerary4](https://github.com/Shristirajpoot/voyagio/assets/147255010/f1e109e4-c412-40c9-bbe4-cdc468990d7a)
 
 - **Factual, Data-Driven Insights:** It relies on real-time, data-driven information to provide accurate, up-to-date details on destinations, ensuring practical and safe travel recommendations.
 
-![itinerary5](https://github.com/szilrdmate/voyagio/assets/147255010/e197541a-a702-401f-9a0d-4c59a0ccaaf0)
+![itinerary5](https://github.com/Shristirajpoot/voyagio/assets/147255010/e197541a-a702-401f-9a0d-4c59a0ccaaf0)
 
 ### Blog
 
 - **Engaging and Relevant Content:** The blog page features carefully curated articles, tips, and stories, all relevant to your travel interests. It's a treasure trove of insights and ideas, ensuring every piece of content you read enriches your travel planning and experience.
 
-![blog](https://github.com/szilrdmate/voyagio/assets/147255010/a86eaca7-261a-437b-a088-e52d922d837d)
+![blog](https://github.com/Shristirajpoot/voyagio/assets/147255010/a86eaca7-261a-437b-a088-e52d922d837d)
 
 ### Account
 
 - **Added benefit:** if you have an account your trips get automatically saved into your history and therefore you can recall them at any point in the future.
 
-![saved](https://github.com/szilrdmate/voyagio/assets/147255010/74565978-aa8b-445c-9fcf-aa42a3ed84a9)
+![saved](https://github.com/Shristirajpoot/voyagio/assets/147255010/74565978-aa8b-445c-9fcf-aa42a3ed84a9)
 
 ## 📶 Status
 

@@ -17,7 +17,7 @@ const MobileNav = React.memo(() => {
 			{text}
 		</NavLink>
 	);
-
+/*hi user*/
 	return (
 		<div className={`bg-gray-800 py-6 sm:bg-gradient-to-b sm:from-[#00000060] sm:to-transparent ${hasGrayBg ? "bg-gray-800" : ""}`}>
 			<div className="mx-auto flex items-center justify-between px-4">

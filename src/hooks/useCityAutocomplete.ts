@@ -5,7 +5,7 @@ const mapboxToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN;
 
 export const useCityAutocomplete = (query: string) => {
     const [suggestions, setSuggestions] = useState<CitySuggestion[]>([]);
-  
+  /*hi user*/
     useEffect(() => {
       if (query.length > 1) {
         fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${query}.json?access_token=${mapboxToken}&types=place`)

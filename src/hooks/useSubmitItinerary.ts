@@ -7,7 +7,7 @@ import { CitySuggestion } from "../types/CitySuggestion";
 export const useSubmitItinerary = (state: FormState, validate: (state: FormState, citySuggestions: CitySuggestion[]) => boolean, citySuggestions: CitySuggestion[]) => {
   const { setResponse } = useItinerary();
   const { setLoading } = useLoading();
-
+/*hi user*/
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const isValid = validate(state, citySuggestions);

@@ -18,7 +18,7 @@ const History: React.FC = () => {
 
 	const itemsPerPage = 8;
 	const navigate = useNavigate();
-
+/*hi user*/
 	useEffect(() => {
 		const loadItineraries = async () => {
 			if (user) {

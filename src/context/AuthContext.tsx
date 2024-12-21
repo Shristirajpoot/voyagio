@@ -21,7 +21,7 @@ const defaultAuthContext: AuthContextType = {
 	setError: () => {},
 	clearError: () => {},
 };
-
+/*hi user*/
 const UserContext = createContext<AuthContextType>(defaultAuthContext);
 
 export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {

@@ -9,4 +9,4 @@ const config: Config.InitialOptions = {
   setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
 };
 
-export default config;
+export default config;/*hi user*/

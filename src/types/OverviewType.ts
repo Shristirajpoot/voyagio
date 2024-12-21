@@ -6,4 +6,4 @@ export type OverviewProps = {
   type DestinationInfo = {
     shortDescription: string;
     shortHistory: string;
-  };
+  };/*hi user*/

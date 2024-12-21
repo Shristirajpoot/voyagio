@@ -4,3 +4,4 @@ export interface BlogCardProps {
   post: BlogPost;
   onClick: () => void;
 }
+/*hi user*/

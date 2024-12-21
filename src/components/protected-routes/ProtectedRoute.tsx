@@ -16,7 +16,7 @@ const NoUserProtectedRoute: React.FC<ProtectedRouteProps> = ({ component: Compon
 			</div>
 		);
 	}
-
+/*hi user*/
 	if (!user) {
 		return <Navigate to="/sign" replace />;
 	}

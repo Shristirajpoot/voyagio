@@ -3,7 +3,7 @@ import About from "./About";
 import Accordion from "./Accordion";
 import Footer from "../../components/ui/Footer";
 import CtaSection from "./CtaSection";
-
+/*hi user*/
 const Home = () => {
 	return (
 		<>

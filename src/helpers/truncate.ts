@@ -3,4 +3,4 @@ export const trimStringToCharLimit = (inputString: string, limit: number): strin
 		return inputString.substring(0, limit) + "...";
 	}
 	return inputString;
-};
+};/*hi user*/

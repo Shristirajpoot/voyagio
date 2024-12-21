@@ -9,7 +9,7 @@ export default {
 			screens: {
 				"2xl": "1400px",
 			},
-		},
+		},/*hi user*/
 		extend: {
 			colors: {
 				border: "hsl(var(--border))",

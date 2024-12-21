@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 const CtaSection: React.FC = () => {
 	const navigate = useNavigate();
-
+/*hi user*/
 	const goPlan = () => {
 		navigate("/planner");
 	};

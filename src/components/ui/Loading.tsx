@@ -16,7 +16,7 @@ const Loading: React.FC = () => {
 
 		return () => clearInterval(interval); // Cleanup interval on component unmount
 	}, []);
-
+/*hi user*/
 	return (
 		<div className="fixed left-0 top-0 z-50 flex h-screen w-screen items-center justify-center bg-black bg-opacity-40 backdrop-blur-lg">
 			<h2 className="text-3xl font-bold text-white sm:text-5xl">Planning Your Trip</h2>

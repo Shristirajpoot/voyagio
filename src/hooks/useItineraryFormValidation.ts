@@ -11,7 +11,7 @@ export const useItineraryFormValidation = () => {
     budget: "",
     activity: "",
   });
-
+/*hi user*/
   const validate = useCallback((state: FormState, citySuggestions: CitySuggestion[]) => {
     let isValid = true;
 

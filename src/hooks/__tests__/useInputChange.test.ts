@@ -6,7 +6,7 @@ import { FormState } from "../../types/ItineraryTypes";
 // Mock the dispatch and setErrors functions
 const mockDispatch = jest.fn();
 const mockSetErrors = jest.fn();
-
+/*hi user*/
 
 describe("useInputChange hook", () => {
     it("should handle input change", () => {

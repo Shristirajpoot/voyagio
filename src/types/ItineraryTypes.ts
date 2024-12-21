@@ -12,4 +12,4 @@ export type ItineraryAction =
   | { type: "TOGGLE_ARRAY_FIELD_ITEM"; field: keyof FormState; value: string }
   | { type: "RESET_FORM" }
   | { type: "SET_ITINERARY"; itinerary: string | null };
- 
+ /*hi user*/

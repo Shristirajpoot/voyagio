@@ -1,3 +1,4 @@
+/*hi user*/
 export const faqs = [
     {
       question: "What is Voyagio?",

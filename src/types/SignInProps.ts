@@ -2,4 +2,4 @@ export interface Props {
 	setState: SetSignInType;
 }
 
-export type SetSignInType = (isSignIn: boolean) => void;
+export type SetSignInType = (isSignIn: boolean) => void;/*hi user*/

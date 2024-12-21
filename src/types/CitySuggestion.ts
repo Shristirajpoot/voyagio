@@ -8,3 +8,4 @@ export interface MapboxFeature {
   text: string; // Place name
   center: [number, number]; // Coordinates as a tuple of [longitude, latitude]
 }
+/*hi user*/

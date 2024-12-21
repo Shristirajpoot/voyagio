@@ -6,7 +6,7 @@ import { ItineraryProps } from "../../types/DayFragmentTypes";
 
 const DayFragment: React.FC<ItineraryProps> = ({ itinerary }) => {
 	const [isCollapsed, setIsCollapsed] = useState(true);
-
+/*hi user*/
 	return (
 		<div className="card w-full border-b border-gray-300 py-6">
 			<div className="my-4 flex space-x-4">

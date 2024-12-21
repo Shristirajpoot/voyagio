@@ -5,7 +5,7 @@ import { useItinerary } from "../../context/ItineraryContext";
 import Loading from "../../components/ui/Loading";
 import { useLoading } from "../../context/LoadingContext";
 import { useMediaQuery } from "react-responsive";
-
+/*hi user*/
 const Planner: React.FC = () => {
 	const { response } = useItinerary();
 	const { isLoading } = useLoading();

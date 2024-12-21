@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
-
+/*hi user*/
 const searchPhrases = ["Top 10 bars in Budapest", "Hiking trips in Nepal", "Best clubs in Berlin", "Where to get local food", "Car rental in Rome"];
 
 const TypingEffect: React.FC = () => {

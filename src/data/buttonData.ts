@@ -14,7 +14,7 @@ import {
   faPeopleGroup,
   faHouseChimney,
 } from "@fortawesome/free-solid-svg-icons";
-
+/*hi user*/
 const activities = [
     { name: "Beaches", icon: faUmbrellaBeach, value: "beaches" },
     { name: "Hiking", icon: faPersonHiking, value: "hiking" },

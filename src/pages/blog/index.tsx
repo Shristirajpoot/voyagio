@@ -4,7 +4,7 @@ import Modal from "./Modal";
 import postData from "../../data/blog.json";
 import { BlogPost } from "../../types/BlogPost";
 import Footer from "../../components/ui/Footer";
-
+/*hi user*/
 const Blog: React.FC = () => {
 	const [selectedPost, setSelectedPost] = useState<BlogPost | null>(null);
 	const [isModalOpen, setIsModalOpen] = useState<boolean>(false);

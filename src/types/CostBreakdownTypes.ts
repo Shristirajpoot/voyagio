@@ -21,7 +21,7 @@ export interface EstimatedCostCategory {
 	traditionalFoodCost?: number;
 	mainActivityForEachDay?: MainActivity[];
 }
-
+/*hi user*/
 export interface EstimatedCostsProps {
 	estimatedCosts: EstimatedCostCategory[];
 }

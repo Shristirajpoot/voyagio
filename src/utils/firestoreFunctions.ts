@@ -12,7 +12,7 @@ export const storeItinerary = async (userId: string, itineraryData: ItineraryRes
     } catch (error) {
       console.error('Error storing itinerary: ', error);
     }
-  }
+  /*hi user*/}
 
   export const retrieveItineraries = async (userId: string): Promise<ItineraryWithId[]> => {
     try {

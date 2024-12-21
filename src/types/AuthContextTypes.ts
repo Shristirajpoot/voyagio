@@ -14,4 +14,4 @@ export type AuthContextType = {
 	logout: () => Promise<void>;
 	clearError: () => void;
 	setError: React.Dispatch<React.SetStateAction<string | null>>;
-};
+};/*hi user*/

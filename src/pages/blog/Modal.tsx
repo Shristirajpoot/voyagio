@@ -3,7 +3,7 @@ import { ModalProps } from "../../types/ModalProps";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faX } from "@fortawesome/free-solid-svg-icons";
 import "../../styles/blog.css";
-
+/*hi user*/
 const Modal: React.FC<ModalProps> = ({ post, onClose }) => {
 	if (!post) return null;
 

@@ -2,7 +2,7 @@ import { useState, FunctionComponent } from "react";
 import { AccordionItemProps } from "../../types/AccordionProps";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp, faChevronDown } from "@fortawesome/free-solid-svg-icons";
-
+/*hi user*/
 const AccordionItem: FunctionComponent<AccordionItemProps> = ({ question, answer }) => {
 	const [isOpen, setIsOpen] = useState(false);
 

@@ -17,7 +17,7 @@ type StatsProps = {
 	localWeather: string;
 	temperatureRangeThroughTheYear: string;
 };
-
+/*hi user*/
 export interface StatItemProps {
 	icon: IconDefinition;
 	content: React.ReactNode;

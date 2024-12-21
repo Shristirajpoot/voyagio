@@ -1,7 +1,7 @@
 import { FunctionComponent } from "react";
 import AccordionItem from "./AccordionItem.tsx";
 import { faqs } from "../../data/faqData.ts";
-
+/*hi user*/
 const Accordion: FunctionComponent = () => {
 	return (
 		<div className="border border-t-gray-300 bg-white px-6 pb-28 pt-16">

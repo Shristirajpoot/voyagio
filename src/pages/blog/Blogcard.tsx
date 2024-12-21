@@ -3,7 +3,7 @@ import { BlogCardProps } from "../../types/BlogCardProps";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronUp } from "@fortawesome/free-solid-svg-icons";
 import { trimStringToCharLimit } from "../../helpers/truncate";
-
+/*hi user*/
 const BlogCard: React.FC<BlogCardProps> = ({ post, onClick }) => {
 	return (
 		<div onClick={onClick} className="group relative h-[380px] cursor-pointer overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-lg sm:h-[400px]  md:h-[400px]">

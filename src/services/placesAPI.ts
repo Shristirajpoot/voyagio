@@ -16,4 +16,4 @@ export const fetchCityImage = async (cityName: string): Promise<string> => {
     console.error('Error fetching image:', error);
     return '';
   }
-};
+};/*hi user*/

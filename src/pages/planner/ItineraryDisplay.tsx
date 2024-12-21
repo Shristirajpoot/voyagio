@@ -11,7 +11,7 @@ import { useItinerary } from "../../context/ItineraryContext";
 import { storeItinerary } from "../../utils/firestoreFunctions";
 import { UserAuth } from "../../context/AuthContext";
 import { fetchCityImage } from "../../services/placesAPI";
-
+/*hi user*/
 const ItineraryDisplay: React.FC<ItineraryDisplayProps> = ({ response }) => {
 	const [isOverview, setIsOverview] = useState<boolean>(true);
 	const { setResponse, isSaved, setIsSaved } = useItinerary();

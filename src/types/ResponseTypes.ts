@@ -19,7 +19,7 @@ export interface ItineraryResponseType {
     itinerary: DayProgram[];
     estimatedCosts: CostEstimate[];
   }
-  
+  /*hi user*/
   export interface DayProgram {
     day: number;
     date: string;
